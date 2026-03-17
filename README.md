@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AngelRy
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning to live
-- 💞️ I’m looking to collaborate on Python and/or ML projects
+- 👀 I’m interested in a nonchalant navigation to singularity
+- 🌱 I’m currently learning to everything
+- 💞️ I’m looking to collaborate on Python and/or ML/DS/AI/DL/LLM/NLP/... projects
 - 📫 How to reach me angel.dzekov on LinkedIn
 
 <!---
